@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="patanjali_store">Patanjali Store</string>
+    <string name="product_id">Product Id</string>
+    <string name="product_name">Product Name</string>
+    <string name="retreive">Retreive</string>
+    <string name="insert">Insert</string>
+    <string name="product_price">Product Price</string>
+    <string name="button">Button</string>
+    <string name="singleid">SingleId</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
